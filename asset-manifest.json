@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/onepiece/static/css/main.905ab97c.chunk.css",
+    "main.js": "/onepiece/static/js/main.186fc11e.chunk.js",
+    "main.js.map": "/onepiece/static/js/main.186fc11e.chunk.js.map",
+    "runtime-main.js": "/onepiece/static/js/runtime-main.bee0a458.js",
+    "runtime-main.js.map": "/onepiece/static/js/runtime-main.bee0a458.js.map",
+    "static/js/2.58bc0351.chunk.js": "/onepiece/static/js/2.58bc0351.chunk.js",
+    "static/js/2.58bc0351.chunk.js.map": "/onepiece/static/js/2.58bc0351.chunk.js.map",
+    "index.html": "/onepiece/index.html",
+    "static/css/main.905ab97c.chunk.css.map": "/onepiece/static/css/main.905ab97c.chunk.css.map",
+    "static/js/2.58bc0351.chunk.js.LICENSE.txt": "/onepiece/static/js/2.58bc0351.chunk.js.LICENSE.txt",
+    "static/media/ace.052cd0b6.jpg": "/onepiece/static/media/ace.052cd0b6.jpg",
+    "static/media/akainu.e540f2b4.jpg": "/onepiece/static/media/akainu.e540f2b4.jpg",
+    "static/media/bigmom.ac4bbfc2.jpg": "/onepiece/static/media/bigmom.ac4bbfc2.jpg",
+    "static/media/blackbeard.c2366b13.jpg": "/onepiece/static/media/blackbeard.c2366b13.jpg",
+    "static/media/buggy.a927999d.jpg": "/onepiece/static/media/buggy.a927999d.jpg",
+    "static/media/crocodile.32d6396d.jpg": "/onepiece/static/media/crocodile.32d6396d.jpg",
+    "static/media/doflamingo.a6eafd11.jpg": "/onepiece/static/media/doflamingo.a6eafd11.jpg",
+    "static/media/hancock.33510ee1.jpg": "/onepiece/static/media/hancock.33510ee1.jpg",
+    "static/media/jimbie.1615fbae.png": "/onepiece/static/media/jimbie.1615fbae.png",
+    "static/media/kaido.290984f1.jpg": "/onepiece/static/media/kaido.290984f1.jpg",
+    "static/media/kizaru.543a91a9.jpg": "/onepiece/static/media/kizaru.543a91a9.jpg",
+    "static/media/kuma.43b5d532.png": "/onepiece/static/media/kuma.43b5d532.png",
+    "static/media/kuzan.b9191184.jpg": "/onepiece/static/media/kuzan.b9191184.jpg",
+    "static/media/law.4e37a1b6.jpg": "/onepiece/static/media/law.4e37a1b6.jpg",
+    "static/media/luffy.fc5d13ef.png": "/onepiece/static/media/luffy.fc5d13ef.png",
+    "static/media/mihalk.11355cbd.jpg": "/onepiece/static/media/mihalk.11355cbd.jpg",
+    "static/media/moria.c74ddb66.jpg": "/onepiece/static/media/moria.c74ddb66.jpg",
+    "static/media/sabo.820d7a4b.jpg": "/onepiece/static/media/sabo.820d7a4b.jpg",
+    "static/media/shanks.cce01c3d.jpg": "/onepiece/static/media/shanks.cce01c3d.jpg",
+    "static/media/whitebeard.38c20625.jpg": "/onepiece/static/media/whitebeard.38c20625.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bee0a458.js",
+    "static/js/2.58bc0351.chunk.js",
+    "static/css/main.905ab97c.chunk.css",
+    "static/js/main.186fc11e.chunk.js"
+  ]
+}
